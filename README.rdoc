@@ -1,0 +1,4 @@
+== README
+
+This is a demo MeBay appliction from the headfirst rails application.
+
